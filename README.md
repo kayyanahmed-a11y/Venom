@@ -14,7 +14,17 @@ Base64‑wrapped shell embedding
 🚦 Hacker-style TUI animations with rich
 ✅ Fully python‑based with requirements.txt
 
+📞 Support:
 💲 𝗕𝗬 𝗠𝗘 𝗞𝗘𝗬 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗪𝗔𝗧𝗦𝗨𝗣𝗣 𝗡𝗨𝗠𝗕𝗘𝗥 03332076980
 ⭐𝗣𝗥𝗜𝗖𝗘 300 𝗥𝗦 𝗣𝗞𝗥
 ⭐𝗨𝗦𝗗  $1.07 
 ⭐𝗜𝗡𝗗𝗜𝗔𝗡 𝗣𝗥𝗜𝗖𝗘 95.78𝗿𝘀
+---------------------------------------
+🛡️ Compatibility:
+Windows: 7/8/10/11 (32-bit & 64-bit)
+
+Linux: Ubuntu, Debian, Kali, etc.
+
+Python: 3.6+
+
+Dependencies: Only colorama (optional)
