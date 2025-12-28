@@ -1,5 +1,7 @@
 🐍 What is VenomRushInjector?
 VenomRushInjector is an advanced, terminal-based multi-platform payload builder + stealth injector tool built in Python. Designed for ethical hacking, penetration testing, and Blue Team defense simulations, this tool can generate FUD (Fully Undetectable) backdoors, binders, and launch auto netcat listeners — all in a stylish, hacker-themed terminal UI.
+---------------------------------------------------------------------------------------------
+# VENOM V-1.0 BETA
 <img width="1920" height="1040" alt="venomrush_pro py - Visual Studio Code  Administrator  27_12_2025 2_48_35 pm" src="https://github.com/user-attachments/assets/a2f4c74c-bdbe-4614-be24-45ced2970e30" />
 ⚡ Features
 🎯 Multi‑OS payload builder:
