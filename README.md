@@ -31,3 +31,8 @@ Dependencies: Only colorama (optional)
 -----------------------------------------------------------------------
 💎 I AM UPGRADIING THIS TOOL AS SOON AS POSIBLE MAKING THIS TOOL BEAST 
 -----------------------------------------------------------------------
+# VENOME HACK V-2.0 PRO
+<img width="1920" height="1040" alt="Untitled-9 py - Visual Studio Code  Administrator  28_12_2025 9_50_20 am" src="https://github.com/user-attachments/assets/78c0d32c-020c-483c-ae64-f37f05564494" />
+<img width="1920" height="1040" alt="Untitled-9 py - Visual Studio Code  Administrator  28_12_2025 9_50_55 am" src="https://github.com/user-attachments/assets/a251a78c-12d5-4000-a90c-3d5cc2715426" />
+
+
